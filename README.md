@@ -1,5 +1,5 @@
 # DadJames
 
-Lol this is just a little quick discord bot I wrote. We had a friend group some time ago and in it was a friend who really liked the classic Hi X, I'm Y style of jokes.
+Lol this is just a little quick discord bot I wrote. You know that annoying dad joke where someone replied to "I'm X" with "Hi X, I'm Y"? Yeah.
 
-So I automated it using some simple python and the discord api and ran it on repl.it for a while.
+Now its automatic! I made it using some simple python and the discord api and ran it on repl.it for a while.
