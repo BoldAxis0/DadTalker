@@ -1,4 +1,4 @@
-# DadJames
+# DadTalker
 
 Lol this is just a little quick discord bot I wrote. You know that annoying dad joke where someone replied to "I'm X" with "Hi X, I'm Y"? Yeah.
 
